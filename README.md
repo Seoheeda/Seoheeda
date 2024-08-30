@@ -16,13 +16,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 <br/>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seoheeda&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Seoheeda&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
-    </div>
-    <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; margin-top: 20;">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1015alicia" width="39%" />
-        <a>
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seoheeda&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="55%" />
-        </a>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seoheeda&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="55%" />
     </div>
 </div>
