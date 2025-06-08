@@ -2,11 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC4F8,100:FAA6F5&height=180&text=ꢭ%20Seohee's%20github%20ꢭ&animation=fadeIn&fontColor=FFFFFF&fontSize=50" />
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -17,6 +17,6 @@
 <br/>
     <div>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1015alicia" width="39%" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seoheeda&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="55%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seoheeda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Top languages" width="37%" />
     </div>
 </div>
